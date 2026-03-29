@@ -40,8 +40,8 @@ I'm a passionate developer based in **Bengaluru**, focused on building scalable 
 
 ### 🤝 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
+* **LinkedIn:** [linkedin.com/in/sanjithp-dev](https://linkedin.com/in/sanjithp-dev)
+* **Email:** [sanjithsavi15@gmail.com](sanjtthsavi15@gmail.com)
 
 ---
 *“Building things, one semicolon at a time.”*
