@@ -15,16 +15,25 @@ I'm a passionate developer based in **Bengaluru**, focused on building scalable 
 
 ---
 
+### 📊 GitHub Statistics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Sanjith's GitHub Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+</p>
+
+---
+
 ### 🏗️ Current Ventures & Projects
 
 * **Fasal Pashu Sathi:** Lead developer for a digital portal designed for farmers (Developed for an All-India College Hackathon).
-* **Witchly.host:** Managing comprehensive documentation and knowledge bases for game server hosting.
+* **Dev Event:** A specialized event management platform built with **Next.js**.
 * **Smart Parking System:** A Java-based intelligent parking lot management tool.
+* **Documentation Lead @ Witchly.host:** Maintaining the official knowledge base and technical documentation using **GitBook**.
 * **Spookydrip & Violet Vault:** Co-founded and scaled e-commerce ventures with a focus on digital marketing.
 
 ---
 
-### 📊 GitHub Stats & Interests
+### 🕹️ Interests & Lifestyle
 
 * 🎮 **Currently Playing:** Elden Ring & Minecraft.
 * 💪 **Off-duty:** You'll find me at the gym 5 days a week.
@@ -34,10 +43,8 @@ I'm a passionate developer based in **Bengaluru**, focused on building scalable 
 
 ### 🤝 Connect with Me
 
-I'm always open to collaborating on interesting projects or discussing new internship opportunities!
-
-* **LinkedIn:** [https://linkedin.com/in/sanjithp-dev]
-* **Email:** [sanjithsavi15@gmail.com]
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **Email:** [your-email@example.com](mailto:your-email@example.com)
 
 ---
 *“Building things, one semicolon at a time.”*
