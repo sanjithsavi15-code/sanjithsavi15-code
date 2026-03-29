@@ -14,7 +14,7 @@ I'm a passionate developer based in **Bengaluru**, focused on building scalable 
 | **Backend & Tools** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) |
 | **Deployment** | ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
-| **Specialized** | ![AI](https://img.shields.io/badge/-Modern%20AI-blue) (Cisco Certified) |
+| **Specialized** | ![AI](https://img.shields.io/badge/-Modern%20AI-blue) |
 
 ---
 
