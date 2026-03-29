@@ -15,11 +15,15 @@ I'm a passionate developer based in **Bengaluru**, focused on building scalable 
 
 ---
 
+---
+
 ### 📊 GitHub Statistics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Sanjith's GitHub Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
-</p>
+
+![Sanjith's Stats](https://github-readme-stats.vercel.app/api?username=SanjithP&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjithP&layout=compact&theme=radical&hide_border=true)
+
+---
 
 ---
 
