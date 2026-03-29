@@ -34,6 +34,7 @@ I'm a passionate developer based in **Bengaluru**, focused on building scalable 
 * 🎮 **Currently Playing:** Elden Ring & Minecraft.
 * 💪 **Off-duty:** You'll find me at the gym 5 days a week.
 * 🌱 **Learning:** Advanced Full-Stack patterns and AI integration.
+* 🎹 **Music:** I'm a passionate **vocalist** and **keyboard player**. I love blending my creative side with my technical projects.
 
 ---
 
