@@ -13,8 +13,6 @@ I'm a passionate developer based in **Bengaluru**, focused on building scalable 
 | **Backend/Core** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![CSS](https://img.shields.io/badge/-HTML5%2FCSS3-1572B6?logo=html5&logoColor=white) |
 | **Specialized** | ![AI](https://img.shields.io/badge/-Modern%20AI-blue) (Cisco Certified)                               |
 
----
-
 
 ---
 
