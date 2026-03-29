@@ -15,15 +15,6 @@ I'm a passionate developer based in **Bengaluru**, focused on building scalable 
 
 ---
 
----
-
-### 📊 GitHub Statistics
-
-![Sanjith's Stats](https://github-readme-stats.vercel.app/api?username=SanjithP&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjithP&layout=compact&theme=radical&hide_border=true)
-
----
 
 ---
 
