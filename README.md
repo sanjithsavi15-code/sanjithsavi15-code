@@ -1,6 +1,6 @@
 # Hi there, I'm Sanjith P. 👋
 
-### 🚀 2nd Year Computer Science Engineering Student
+### 🚀 3rd Year Computer Science Engineering Student
 I'm a passionate developer based in **Bengaluru**, focused on building scalable web applications and intuitive digital solutions. I enjoy bridging the gap between complex backend logic and seamless frontend experiences.
 
 ---
